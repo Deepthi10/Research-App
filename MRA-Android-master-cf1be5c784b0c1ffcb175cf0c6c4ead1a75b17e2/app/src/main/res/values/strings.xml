@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">MRA</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="gender_prompt">Choose your gender</string>
+
+    <string-array name="gender_opts">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Not Listed</item>
+        <item>No Response</item>
+    </string-array>
+
+    <string name="dob_prompt">Choose your Age</string>
+    <string-array name="dob_opts">
+        <item>Select</item>
+        <item>No Response</item>
+    </string-array>
+
+    <string name="race_prompt">Please specify your ethnicity</string>
+
+    <string-array name="race_opts">
+        <item value="ST">Select</item>
+        <item value="HISP">Hispanic/Latino</item>
+        <item value="AIAN">American Indian/Eskimo</item>
+        <item value="ASIAN">Asian/Pacific Islander</item>
+        <item value="BLACK">Black/African American</item>
+        <item value="HAWA">Native Hawaiian/Other Pacific Islander</item>
+        <item value="WHITE">Caucasian</item>
+        <item value="MURA">Multiracial</item>
+        <item value="NR">No Response</item>
+    </string-array>
+    <string name="edu_prompt">Please specify your education level</string>
+
+    <string-array name="edu_opts">
+        <item value="ST">Select</item>
+        <item value="DOC">Doctoral</item>
+        <item value="MAS">Masters</item>
+        <item value="BAC">Bachelors</item>
+        <item value="ASO">Associate</item>
+        <item value="HSD">High School Diploma</item>
+        <item value="GED">GED</item>
+        <item value="NR">No Response</item>
+    </string-array>
+
+
+    <string name="marital_prompt">Please specify your marital status</string>
+
+    <string-array name="marital_opts">
+        <item value="ST">Select</item>
+        <item value="SING">Single</item>
+        <item value="MARR">Married</item>
+        <item value="DIVO">Divorced</item>
+        <item value="SEPA">Separated</item>
+        <item value="WIDO">Widowed</item>
+        <item value="NR">No Response</item>
+    </string-array>
+
+</resources>
